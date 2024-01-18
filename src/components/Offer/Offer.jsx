@@ -24,8 +24,8 @@ const Offer = () => {
               y2="15.5852"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#A80183" />
-              <stop offset="1" stop-color="#FF68E7" />
+              <stop stopColor="#A80183" />
+              <stop offset="1" stopColor="#FF68E7" />
             </linearGradient>
           </defs>
         </svg>
@@ -91,8 +91,8 @@ const Offer = () => {
               y2="15.5852"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#A80183" />
-              <stop offset="1" stop-color="#FF68E7" />
+              <stop stopColor="#A80183" />
+              <stop offset="1" stopColor="#FF68E7" />
             </linearGradient>
           </defs>
         </svg>
